@@ -42,4 +42,15 @@ namespace ApiTest.Controllers
         {
         }
     }
-}
+
+    [Route("api/[controller]")]
+    [ApiController]
+    public class  NumbersController : ControllerBase
+    {
+        [HttpGet]
+        public ActionResult<IEnumerable<string>> Get()
+        {
+            return new string[] { "1", "2", "3" , "4"};
+        }
+    }
+    }
