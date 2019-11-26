@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uziel\\Documents\\Visual Studio 2017\\Projects\\ApiTest\\ApiTest\\ApiTest.csproj",
+      "projectUniqueName": "C:\\Users\\uziel\\Documents\\Repositories\\BackendApi\\ApiTest\\ApiTest\\ApiTest.csproj",
       "projectName": "ApiTest",
-      "projectPath": "C:\\Users\\uziel\\Documents\\Visual Studio 2017\\Projects\\ApiTest\\ApiTest\\ApiTest.csproj",
+      "projectPath": "C:\\Users\\uziel\\Documents\\Repositories\\BackendApi\\ApiTest\\ApiTest\\ApiTest.csproj",
       "packagesPath": "C:\\Users\\uziel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uziel\\Documents\\Visual Studio 2017\\Projects\\ApiTest\\ApiTest\\obj\\",
+      "outputPath": "C:\\Users\\uziel\\Documents\\Repositories\\BackendApi\\ApiTest\\ApiTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
